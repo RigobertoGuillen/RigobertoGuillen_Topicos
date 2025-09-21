@@ -1,4 +1,4 @@
-//una funcion que reciba un nombre y un numero de veces y devuelva un array
+
 
 function repetirNombre(nombre: string, veces: number): string[] {
     let resultado: string[] = [];
